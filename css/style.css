@@ -5,3 +5,14 @@ h1 {
 h2 {
     color: darkslategrey;
 }
+
+body {
+    background-color: rgb(114, 126, 126);
+}
+
+.line1 {
+    color: firebrick;
+}
+#line2 {
+    color: firebrick;
+}
