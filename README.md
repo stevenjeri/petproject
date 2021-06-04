@@ -1,5 +1,5 @@
 # my pet project
 
-## description
+## Description
 
 this project is supposed to 
